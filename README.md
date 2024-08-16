@@ -21,11 +21,18 @@
   </p>
 <br>
 
+<h2 >Tecnologías Principales ⌨️</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,fastapi,java,spring,js,react,nextjs,nodejs,css,html,redux,mysql,mongodb,postman,git,github,gcp,bash,linux,docker,&perline=12" />
+  </a>
+</p>
 <h2 >Tecnologías conocidas👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,java,spring,docker,js,react,nextjs,nodejs,vite,cpp,css,html,redux,mysql,mongodb,postman,git,netlify,github,gcp,vscode,bash,linux,ai,ps,materialui,&perline=12" />
+    <img src="https://skillicons.dev/icons?i=py,django,java,spring,js,react,nextjs,nodejs,css,html,materialui,vite,cpp,redux,mysql,mongodb,postman,git,netlify,github,gcp,vscode,bash,linux,docker,ai,ps,&perline=12" />
   </a>
 </p>
 
