@@ -12,7 +12,7 @@
 <p align="left">
 🎓 DESARROLLO DE SOFTWARE 
 
-💻 Estudiante de Desarrollo de Software 
+💻 Estudiante de Ingenieria en Desarrollo de Software 
 
 📝 Programador Web Freelance 
 
