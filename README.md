@@ -1,4 +1,23 @@
-<h1 align="center">Hola 👋  soy Steven 💻 </h1> 
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=stivimoon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stivimoon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="200" src="https://imgs.search.brave.com/h9vQA9qdjztFkWDkQtG2nf80N4teTVlBGfWkAPsKbkA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTMuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhibVp5TjJrMlpY/QjJjM0F3ZFhoeFl6/TjZjRzR4WkRGeGNu/UmplbTB5WW1SMlkz/bDBZVzg0TUNabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vd3dnMXN1VWlU/YkNZOEg4dklBL2dp/cGh5LmdpZg.gif"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/stivimoon/stivimoon/output/snake.svg" alt="Snake animation" />
+
+###
 
 <p align="left">
   
